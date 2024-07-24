@@ -32,4 +32,16 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/edwinadsouza/leet_sol/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/edwinadsouza/leet_sol/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/edwinadsouza/leet_sol/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/edwinadsouza/leet_sol/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
