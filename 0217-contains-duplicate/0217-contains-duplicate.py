@@ -1,4 +1,4 @@
-class Solution(object):
-    def containsDuplicate(self, nums):
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
         return len(nums) != len(set(nums))
         
