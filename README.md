@@ -10,6 +10,7 @@ Solved problems on Leet Code
 | [0001-two-sum](https://github.com/edwinadsouza/leet_sol/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/edwinadsouza/leet_sol/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/edwinadsouza/leet_sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -24,6 +25,7 @@ Solved problems on Leet Code
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
@@ -53,4 +55,13 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/edwinadsouza/leet_sol/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
