@@ -15,6 +15,7 @@ Solved problems on Leet Code
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edwinadsouza/leet_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solved problems on Leet Code
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/edwinadsouza/leet_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Solved problems on Leet Code
 | ------- |
 | [0031-next-permutation](https://github.com/edwinadsouza/leet_sol/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +78,5 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
