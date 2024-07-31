@@ -14,11 +14,13 @@ Solved problems on Leet Code
 | [0053-maximum-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edwinadsouza/leet_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/edwinadsouza/leet_sol/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,10 +35,12 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/edwinadsouza/leet_sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +49,7 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/edwinadsouza/leet_sol/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +71,8 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
