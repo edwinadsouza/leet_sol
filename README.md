@@ -16,6 +16,7 @@ Solved problems on Leet Code
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/edwinadsouza/leet_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ Solved problems on Leet Code
 | ------- |
 | [0031-next-permutation](https://github.com/edwinadsouza/leet_sol/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/edwinadsouza/leet_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
