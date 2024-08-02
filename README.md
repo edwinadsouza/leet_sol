@@ -15,6 +15,7 @@ Solved problems on Leet Code
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edwinadsouza/leet_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/edwinadsouza/leet_sol/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/edwinadsouza/leet_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
@@ -92,4 +93,8 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/edwinadsouza/leet_sol/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
