@@ -13,6 +13,7 @@ Solved problems on Leet Code
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edwinadsouza/leet_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/edwinadsouza/leet_sol/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@ Solved problems on Leet Code
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edwinadsouza/leet_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
 | ------- |
