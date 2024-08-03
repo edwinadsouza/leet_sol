@@ -22,12 +22,14 @@ Solved problems on Leet Code
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/edwinadsouza/leet_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/edwinadsouza/leet_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/edwinadsouza/leet_sol/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/edwinadsouza/leet_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Solved problems on Leet Code
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/edwinadsouza/leet_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
