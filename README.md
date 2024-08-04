@@ -9,6 +9,7 @@ Solved problems on Leet Code
 | ------- |
 | [0001-two-sum](https://github.com/edwinadsouza/leet_sol/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/edwinadsouza/leet_sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/edwinadsouza/leet_sol/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/edwinadsouza/leet_sol/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/edwinadsouza/leet_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
@@ -80,6 +81,7 @@ Solved problems on Leet Code
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/edwinadsouza/leet_sol/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/edwinadsouza/leet_sol/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/edwinadsouza/leet_sol/tree/master/0283-move-zeroes) |
@@ -109,4 +111,8 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/edwinadsouza/leet_sol/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/edwinadsouza/leet_sol/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
