@@ -71,6 +71,7 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/edwinadsouza/leet_sol/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/edwinadsouza/leet_sol/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 ## Recursion
 |  |
