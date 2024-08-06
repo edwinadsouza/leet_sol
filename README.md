@@ -31,6 +31,7 @@ Solved problems on Leet Code
 | ------- |
 | [0001-two-sum](https://github.com/edwinadsouza/leet_sol/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/edwinadsouza/leet_sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/edwinadsouza/leet_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
@@ -52,6 +53,7 @@ Solved problems on Leet Code
 | [0015-3sum](https://github.com/edwinadsouza/leet_sol/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/edwinadsouza/leet_sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/edwinadsouza/leet_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
@@ -81,6 +83,7 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/edwinadsouza/leet_sol/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/edwinadsouza/leet_sol/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/edwinadsouza/leet_sol/tree/master/0468-validate-ip-address) |
 ## Two Pointers
 |  |
