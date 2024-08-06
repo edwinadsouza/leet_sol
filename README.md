@@ -82,6 +82,7 @@ Solved problems on Leet Code
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/edwinadsouza/leet_sol/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/edwinadsouza/leet_sol/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/edwinadsouza/leet_sol/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/edwinadsouza/leet_sol/tree/master/0468-validate-ip-address) |
@@ -98,6 +99,7 @@ Solved problems on Leet Code
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/edwinadsouza/leet_sol/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
