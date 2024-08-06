@@ -80,6 +80,7 @@ Solved problems on Leet Code
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/edwinadsouza/leet_sol/tree/master/0125-valid-palindrome) |
 | [0468-validate-ip-address](https://github.com/edwinadsouza/leet_sol/tree/master/0468-validate-ip-address) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ Solved problems on Leet Code
 | [0015-3sum](https://github.com/edwinadsouza/leet_sol/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/edwinadsouza/leet_sol/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/edwinadsouza/leet_sol/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/edwinadsouza/leet_sol/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/edwinadsouza/leet_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 ## Stack
