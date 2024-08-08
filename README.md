@@ -76,6 +76,7 @@ Solved problems on Leet Code
 | [0002-add-two-numbers](https://github.com/edwinadsouza/leet_sol/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/edwinadsouza/leet_sol/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/edwinadsouza/leet_sol/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Solved problems on Leet Code
 | [0125-valid-palindrome](https://github.com/edwinadsouza/leet_sol/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/edwinadsouza/leet_sol/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/edwinadsouza/leet_sol/tree/master/0468-validate-ip-address) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/edwinadsouza/leet_sol/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,8 +130,13 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/edwinadsouza/leet_sol/tree/master/0011-container-with-most-water) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/edwinadsouza/leet_sol/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/edwinadsouza/leet_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/edwinadsouza/leet_sol/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
