@@ -145,4 +145,8 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/edwinadsouza/leet_sol/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/edwinadsouza/leet_sol/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
