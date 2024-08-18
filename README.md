@@ -149,4 +149,5 @@ Solved problems on Leet Code
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/edwinadsouza/leet_sol/tree/master/0595-big-countries) |
+| [0627-swap-salary](https://github.com/edwinadsouza/leet_sol/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
