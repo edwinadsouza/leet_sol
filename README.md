@@ -21,6 +21,7 @@ Solved problems on Leet Code
 | [0152-maximum-product-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/edwinadsouza/leet_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/edwinadsouza/leet_sol/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/edwinadsouza/leet_sol/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/edwinadsouza/leet_sol/tree/master/0238-product-of-array-except-self) |
@@ -33,6 +34,7 @@ Solved problems on Leet Code
 | ------- |
 | [0001-two-sum](https://github.com/edwinadsouza/leet_sol/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/edwinadsouza/leet_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/edwinadsouza/leet_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/edwinadsouza/leet_sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
@@ -42,6 +44,7 @@ Solved problems on Leet Code
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/edwinadsouza/leet_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/edwinadsouza/leet_sol/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/edwinadsouza/leet_sol/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -56,6 +59,7 @@ Solved problems on Leet Code
 | ------- |
 | [0015-3sum](https://github.com/edwinadsouza/leet_sol/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/edwinadsouza/leet_sol/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/edwinadsouza/leet_sol/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edwinadsouza/leet_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/edwinadsouza/leet_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/edwinadsouza/leet_sol/tree/master/0242-valid-anagram) |
@@ -152,4 +156,8 @@ Solved problems on Leet Code
 | ------- |
 | [0595-big-countries](https://github.com/edwinadsouza/leet_sol/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/edwinadsouza/leet_sol/tree/master/0627-swap-salary) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/edwinadsouza/leet_sol/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
