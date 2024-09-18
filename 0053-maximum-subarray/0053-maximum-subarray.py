@@ -1,12 +1,11 @@
 class Solution(object):
     def maxSubArray(self, nums):
-        if not nums:
-            return 0
-            
-        max_current = max_global = nums[0]
-        for num in nums[1:]:
-            max_current = max(num, max_current + num)
-            if max_current > max_global:
-                max_global = max_current
-        return max_global
+        currsum = 0
+        maxsum = float('-inf')
+        for val in nums:
+            currsum += val
+            maxsum = max(currsum,maxsum)
+            if (currsum<0):
+                currsum = 0
+        return maxsum
         
