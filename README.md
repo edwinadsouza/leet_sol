@@ -88,6 +88,7 @@ Solved problems on Leet Code
 | [0009-palindrome-number](https://github.com/edwinadsouza/leet_sol/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/edwinadsouza/leet_sol/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/edwinadsouza/leet_sol/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/edwinadsouza/leet_sol/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
 |  |
