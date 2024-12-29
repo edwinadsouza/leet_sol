@@ -133,6 +133,7 @@ Solved problems on Leet Code
 | [0191-number-of-1-bits](https://github.com/edwinadsouza/leet_sol/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/edwinadsouza/leet_sol/tree/master/0476-number-complement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
