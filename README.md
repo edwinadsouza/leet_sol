@@ -87,6 +87,7 @@ Solved problems on Leet Code
 | [0007-reverse-integer](https://github.com/edwinadsouza/leet_sol/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/edwinadsouza/leet_sol/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/edwinadsouza/leet_sol/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/edwinadsouza/leet_sol/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/edwinadsouza/leet_sol/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/edwinadsouza/leet_sol/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -95,6 +96,7 @@ Solved problems on Leet Code
 | ------- |
 | [0002-add-two-numbers](https://github.com/edwinadsouza/leet_sol/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/edwinadsouza/leet_sol/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/edwinadsouza/leet_sol/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Solved problems on Leet Code
 | ------- |
 | [0136-single-number](https://github.com/edwinadsouza/leet_sol/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/edwinadsouza/leet_sol/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/edwinadsouza/leet_sol/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/edwinadsouza/leet_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/edwinadsouza/leet_sol/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/edwinadsouza/leet_sol/tree/master/0476-number-complement) |
